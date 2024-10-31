@@ -1,4 +1,4 @@
-# CIFAR-10 Image Classification using Decision Trees
+# Image Classification using Decision Trees
 
 ## Project Overview
 
